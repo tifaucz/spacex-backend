@@ -1,6 +1,10 @@
 import { ensureEnvVars } from './ensureEnvVars';
 import { nodeEnv, NodeEnv } from './nodeEnv';
 
+import * as dotenv from 'dotenv';
+dotenv.config();
+
+
 interface AuthScope {
   userId?: string;
   ip?: string;

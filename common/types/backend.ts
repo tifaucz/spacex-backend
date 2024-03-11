@@ -61,11 +61,30 @@ export type QueryUserArgs = {
 
 export type Ship = {
   __typename?: 'Ship';
-  active: Scalars['Boolean'];
-  class?: Maybe<Scalars['String']>;
   id: Scalars['ID'];
-  image?: Maybe<Scalars['String']>;
+  class?: Maybe<Scalars['String']>;
   name?: Maybe<Scalars['String']>;
+  image?: Maybe<Scalars['String']>;
+  active: Scalars['Boolean'];
+  abs?: Maybe<Scalars['Int']>;
+  home_port?: Maybe<Scalars['String']>;
+  imo?: Maybe<Scalars['Int']>;
+  mmsi?: Maybe<Scalars['Int']>;
+  model?: Maybe<Scalars['String']>;
+  roles?: Maybe<Array<Maybe<Scalars['String']>>>;
+  status?: Maybe<Scalars['String']>;
+  type?: Maybe<Scalars['String']>;
+  year_built?: Maybe<Scalars['Int']>;
+  missions?: Maybe<Array<Maybe<Mission>>>;
+  createdAt: Scalars['Date'];
+  updatedAt: Scalars['Date'];
+};
+
+export type Mission = {
+  __typename?: 'Mission';
+  id: Scalars['ID'];
+  flight: Maybe<Scalars['String']>;
+  name: Maybe<Scalars['String']>;
 };
 
 export type ShipsInput = {

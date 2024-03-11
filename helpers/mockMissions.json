@@ -1,0 +1,118 @@
+[
+    {
+        "name": "High-seas payload retrieval phase II",
+        "flight": "CRS-22"
+    },
+    {
+        "name": "Saltwater impact assessment on rocket components",
+        "flight": "Transporter-3"
+    },
+    {
+        "name": "Dynamic positioning system validation for launch pads",
+        "flight": "Starlink-16"
+    },
+    {
+        "name": "Autonomous drone ship navigation trials",
+        "flight": "Turksat 5A"
+    },
+    {
+        "name": "Crew Dragon splashdown and recovery test",
+        "flight": "Crew-2"
+    },
+    {
+        "name": "Fairing catch and refurbishment operations",
+        "flight": "GPS III SV05"
+    },
+    {
+        "name": "Deep-sea telemetry data collection initiative",
+        "flight": "CRS-23"
+    },
+    {
+        "name": "Orbital debris tracking and analysis mission",
+        "flight": "Inspiration4"
+    },
+    {
+        "name": "Experimental landing pad coating endurance test",
+        "flight": "Starlink-17"
+    },
+    {
+        "name": "Long-duration sea state monitoring for launch stability",
+        "flight": "Starlink-18"
+    },
+    {
+        "name": "Underwater acoustic environment survey for rocket launches",
+        "flight": "Starlink-19"
+    },
+    {
+        "name": "Rocket booster retrieval and transport efficiency study",
+        "flight": "Starlink-20"
+    },
+    {
+        "name": "Sea-based radar cross-section measurements",
+        "flight": "Starlink-21"
+    },
+    {
+        "name": "Maritime navigation safety protocols for space operations",
+        "flight": "Starlink-22"
+    },
+    {
+        "name": "Automated sea vessel coordination for fleet management",
+        "flight": "Starlink-23"
+    },
+    {
+        "name": "Sea-to-space communication link optimization project",
+        "flight": "Starlink-24"
+    },
+    {
+        "name": "Environmental impact study of sea-based rocket launches",
+        "flight": "Starlink-25"
+    },
+    {
+        "name": "High-altitude wind pattern analysis over launch sites",
+        "flight": "Starlink-26"
+    },
+    {
+        "name": "Rocket propellant spill containment and recovery drill",
+        "flight": "Starlink-27"
+    },
+    {
+        "name": "Spacecraft heat shield splashdown recovery test",
+        "flight": "Starlink-28"
+    },
+    {
+        "name": "Offshore emergency response readiness for crewed flights",
+        "flight": "Starlink-29"
+    },
+    {
+        "name": "Sea-based launch viewing and public safety coordination",
+        "flight": "Starlink-30"
+    },
+    {
+        "name": "Recovery vessel speed and maneuverability enhancement",
+        "flight": "Crew-3"
+    },
+    {
+        "name": "Post-splashdown astronaut medical protocol simulation",
+        "flight": "AX-1"
+    },
+    {
+        "name": "Satellite deployment support and tracking ship mission",
+        "flight": "CRS-24"
+    },
+    {
+        "name": "Experimental ocean landing pad stabilization techniques",
+        "flight": "Transporter-4"
+    },
+    {
+        "name": "Multi-stage rocket component separation analysis at sea",
+        "flight": "Starlink-31"
+    },
+    {
+        "name": "Sea-based rocket launch noise pollution study",
+        "flight": "Starlink-32"
+    },
+    {
+        "name": "Recovery ship fleet synchronization and timing trials",
+        "flight": "Starlink-33"
+    }
+]

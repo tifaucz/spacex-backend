@@ -4,7 +4,7 @@ const queries = gql`
   type Query {
     user(input: UserInput!): User!
     blockApp(input: BlockAppInput!): BlockApp!
-    ships(input: ShipsInput!): [Ship!]
+    ships(input: ShipsInput): [Ship!]
   }
 `;
 
